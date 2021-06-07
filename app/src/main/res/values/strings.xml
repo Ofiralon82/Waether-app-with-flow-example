@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather APP</string>
+
+    <string name="filter_text">Filter list here…</string>
+    <string name="an_error_occurred_while_loading_data">An error occurred while loading data</string>
+
+    <string name="city_temperatures_fahrenheit">min %1$.1f\u2109 - max %2$.1f\u2109</string>
+    <string name="city_temperatures_celsius">min %1$.1f\u2103 - max %2$.1f\u2103</string>
+
+    <string name="city_details_feels_like_celsius">%1$.1f\u2103</string>
+    <string name="city_details_feels_like_fahrenheit">%1$.1f\u2109</string>
+    <string name="list_fragment_title">Current Cities</string>
+
+    <string name="cities_retrieved_from_database">Cities retrieved from database</string>
+    <string name="cities_retrieved_from_api">Cities retrieved from api</string>
+</resources>

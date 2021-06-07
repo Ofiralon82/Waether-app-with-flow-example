@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fahrenheit"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/ic_farenhite"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/celsius"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/ic_celsius"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="ifRoom" />
+</menu>
